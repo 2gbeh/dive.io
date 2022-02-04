@@ -1,0 +1,92 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-SETTINGS {background-color:#FFF;}
+.DRAGONFLY-SETTINGS main {width:500px;}
+
+.DRAGONFLY-SETTINGS .hud {
+	padding:20px 0 10px;
+	text-align:center;}
+.DRAGONFLY-SETTINGS .hud input {display:none;}	
+.DRAGONFLY-SETTINGS .hud a {
+	margin-top:10px;
+	font-size:14px;}	
+.DRAGONFLY-SETTINGS .profile {
+	margin:0 auto;
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:scroll;
+	background-size:cover;	
+	width:80px;
+	height:80px;
+	border-radius:45px;
+	border:solid thin #CCC;
+	cursor:pointer;}
+	
+.DRAGONFLY-SETTINGS .glyph {
+	padding-top:20px; 
+	text-align:center;}
+.DRAGONFLY-SETTINGS .glyph img {width:60px;}
+
+
+.DRAGONFLY-SETTINGS table th {
+	padding:10px 15px;
+	color:#666;
+	text-align:left;
+	font-size:14px;
+	border-bottom:solid thin #666;}
+.DRAGONFLY-SETTINGS table th .meta {
+	float:right;
+	vertical-align:top;
+	display:inline-block;}	
+.DRAGONFLY-SETTINGS table tr {
+	border-bottom:solid thin #DDD;}
+.DRAGONFLY-SETTINGS table td .summary {
+	padding:0 10px 10px;
+	color:#666;
+	font-size:14px;
+	white-space:normal;}	
+.DRAGONFLY-SETTINGS table td.notice {
+	padding:10px;
+	color:#666;
+	font-size:14px;
+	white-space:normal;}	
+
+
+	
+.DRAGONFLY-SETTINGS table.list tr {
+	vertical-align:top;}
+.DRAGONFLY-SETTINGS table.list td.label {
+	padding:10px 0 0 10px;
+	color:#666; 
+	width:10px;
+	white-space:nowrap;}
+.DRAGONFLY-SETTINGS table.list td.input {white-space:normal;}	
+
+
+.DRAGONFLY-SETTINGS table.menu td a {
+	padding:10px;
+	display:block;}			
+.DRAGONFLY-SETTINGS table.menu td .date {
+	color:#999;
+	font-size:14px;
+	float:right;}
+
+	
+.DRAGONFLY-SETTINGS form {font-size:14px;}
+.DRAGONFLY-SETTINGS input, 
+.DRAGONFLY-SETTINGS select, 
+.DRAGONFLY-SETTINGS textarea, 
+.DRAGONFLY-SETTINGS input[type="date"], 
+.DRAGONFLY-SETTINGS input[type="search"] {
+	background-color:#FFF;
+	padding:10px;
+	border:0;
+	width:100%;}
+.DRAGONFLY-SETTINGS input[type="file"] {padding:5px 10px;}	
+.DRAGONFLY-SETTINGS input[type="submit"] {
+	padding:12px 10px;
+	color:#FFF;}
+
+
+	
+	

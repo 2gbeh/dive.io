@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-DOWNLOAD main {width:500px;}
+
+.DRAGONFLY-DOWNLOAD table tr {
+	border-bottom:solid thin #DDD;}
+.DRAGONFLY-DOWNLOAD table th {
+	padding:10px 15px;
+	color:#666;
+	text-align:left;
+	font-size:14px;
+	border-bottom:solid thin #666;}
+.DRAGONFLY-DOWNLOAD table th .meta {
+	float:right;
+	vertical-align:top;
+	display:inline-block;}	
+
+
+.DRAGONFLY-DOWNLOAD table.list tr {vertical-align:top;}
+.DRAGONFLY-DOWNLOAD table.list td {white-space:normal;}
+.DRAGONFLY-DOWNLOAD table.list td a {
+	padding:10px;
+	color:#333;
+	display:block;}	
+.DRAGONFLY-DOWNLOAD table.list td .heading {font-weight:bold;}
+.DRAGONFLY-DOWNLOAD table.list td .footnote {
+	padding-top:5px;
+	color:#666;	
+	font-size:14px;}	
+.DRAGONFLY-DOWNLOAD table.list td .size {float:right;}
+
+
+.DRAGONFLY-DOWNLOAD table.menu td a {
+	padding:10px;
+	display:block;}			
+
+
+
+	
+	

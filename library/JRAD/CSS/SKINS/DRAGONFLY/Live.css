@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-LIVE {text-align:center;}
+.DRAGONFLY-LIVE ul.flex li {
+	padding:10px; 
+	display:inline-block;}	
+.DRAGONFLY-LIVE .jacket	a {
+	padding:3px;
+	border:solid 2px #16BC00;
+	border-radius:60px;
+	display:inline-block;}
+.DRAGONFLY-LIVE .photo {
+	margin:0 auto;
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:scroll;
+	background-size:cover;	
+	width:60px;
+	height:60px;
+	border-radius:35px;
+	cursor:pointer;}
+.DRAGONFLY-LIVE .tag {
+	padding:5px 0 0;
+	text-align:center;
+	font-size:14px;
+	font-style:normal;	
+	cursor:default;}	

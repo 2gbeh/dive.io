@@ -1,0 +1,75 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+<table border="0" class="DRAGONFLY-FIREFLY-GO">
+<tr class="firefly-header">
+    <td><div class="firefly-thumb" style="background-image:url(media/uploads/firefly/go_izivote.png);">&nbsp;</div></td>
+    <td>
+        <div class="firefly-caption">Create Votes and Polls for FREE</div>
+        <div class="firefly-summary">Izivote is a free web app that lets you create award votes, polls, online questionnaires and surveys. </div>            
+    </td>            
+</tr>            
+<tr class="firefly-footer"> 
+    <td colspan="2">
+    <div class="firefly-action">
+        <a href="http://www.izivote.com/">
+        	Get Started 
+            <span class="arrow">&rsaquo;</span>
+        </a>
+    </div>     
+    </td>
+</tr>
+</table>          
+*/
+.DRAGONFLY-FIREFLY-GO {background-color:#FFF;}
+.DRAGONFLY-FIREFLY-GO td {white-space:normal;}
+
+.DRAGONFLY-FIREFLY-GO tr.firefly-header {vertical-align:top;}
+.DRAGONFLY-FIREFLY-GO tr.firefly-header td:first-child {
+	padding:10px;
+	padding-top:15px;
+	width:10px;
+	text-align:center;}
+
+.DRAGONFLY-FIREFLY-GO .firefly-thumb {
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:scroll;
+	background-size:cover;
+/*	border:solid thin;*/
+	width:75px;
+	height:75px;}
+
+.DRAGONFLY-FIREFLY-GO #indicator {
+	padding:0 2px;
+	color:#16BC00;
+	font-size:10px;
+	border:solid thin #16BC00;	
+	float:right;	
+	cursor:default;}
+.DRAGONFLY-FIREFLY-GO .firefly-caption {
+	padding:10px 10px 0 0;
+	font-size:14px;}
+.DRAGONFLY-FIREFLY-GO .firefly-summary {
+	padding:5px 10px 10px 0;
+	color:#666;
+	font-size:14px;}
+		
+.DRAGONFLY-FIREFLY-GO .firefly-action {
+	font-size:14px;
+	border-top:solid thin #DDD;}	
+.DRAGONFLY-FIREFLY-GO .firefly-action a {
+	padding:10px 15px;
+	color:#16BC00;
+	text-decoration:none;
+	display:block;}
+.DRAGONFLY-FIREFLY-GO .firefly-action a:hover {
+	background-color:#16BC00;
+	color:#FFF;}	
+.DRAGONFLY-FIREFLY-GO .firefly-action .arrow {
+	font-size:28px;
+	line-height:0.5;
+	float:right;}
+/*table.@firefly tr.top {vertical-align:top;}
+table.@firefly td {white-space:normal;}
+	*/

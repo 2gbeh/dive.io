@@ -1,0 +1,93 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-PAGE main {width:500px;}
+.DRAGONFLY-PAGE .hud {
+	padding:20px 0;
+	color:#FFF;
+	text-align:center;
+	border-bottom:solid thin #CCC;}
+.DRAGONFLY-PAGE .hud div {
+	margin:5px 0;
+	padding:0 10px;}	
+.DRAGONFLY-PAGE .hud .title {
+	padding-top:10px;
+	font-size:18px;
+	font-weight:bold;}
+.DRAGONFLY-PAGE .hud .article {font-size:15px;}	
+.DRAGONFLY-PAGE .hud .action {margin:0;}
+.DRAGONFLY-PAGE .hud a.button {
+	padding:10px 20px;
+	margin-top:10px;
+	background-color:#FFF;
+	font-size:14px;
+	font-weight:bold;
+	border-radius:5px;}
+.DRAGONFLY-PAGE .hud a.button:hover {background-color:#EEE;}	
+.DRAGONFLY-PAGE .hud .profile {
+	margin:0 auto;
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:scroll;
+	background-size:cover;	
+	width:100px;
+	height:100px;
+	border-radius:55px;
+	border:solid 4px #FFF;
+	cursor:pointer;
+	box-shadow:0 1px 2px 0 #666;}
+	
+
+
+.DRAGONFLY-PAGE img {margin:0 5px;}
+.DRAGONFLY-PAGE img.group {width:20px; vertical-align:sub;}
+.DRAGONFLY-PAGE img.location {width:10px; vertical-align:sub;}	
+
+
+.DRAGONFLY-PAGE table tr {
+	vertical-align:middle;
+	border-bottom:solid thin #DDD;
+	cursor:default;}
+.DRAGONFLY-PAGE table th {
+	padding:10px 15px;
+	color:#666;
+	text-align:left;
+	font-size:14px;
+	border-bottom:solid thin #666;}	
+.DRAGONFLY-PAGE table th a.link {
+	float:right;
+	vertical-align:top;
+	display:inline-block;}	
+		
+.DRAGONFLY-PAGE table.list td {font-size:14px;}
+.DRAGONFLY-PAGE table.list td.label {
+	padding-left:10px;
+	color:#666; 
+	width:10px;
+	white-space:nowrap;}
+.DRAGONFLY-PAGE table.list td.input {
+	padding:10px;
+	white-space:normal;}
+.DRAGONFLY-PAGE table td.notice {
+	padding:10px;
+	color:#666;
+	font-size:14px;
+	white-space:normal;}
+.DRAGONFLY-PAGE .mark {
+	padding:0;
+	margin:0;
+	color:#090;
+	font-size:14px;
+	/*font-style: italic;*/}	
+
+
+.DRAGONFLY-PAGE table.menu td a {
+	padding:10px;
+	display:block;}
+
+
+	
+
+
+
+	
+	

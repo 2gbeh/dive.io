@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* 
+CYAN 	#0093DD
+DYAN	#007BB8
+LYAN 	#75C5F0
+*/
+/* CYAN */
+.theme-background {
+	background-color:#0093DD;}
+.theme-color {
+	color:#0093DD;}
+.theme-border {
+	border-color:#0093DD;}
+
+/* DYAN */
+.theme-background-sec {
+	background-color:#007BB8;}
+.theme-color-sec {
+	color:#007BB8;}
+.theme-border-sec {
+	border-color:#007BB8;}
+	
+/* LYAN */	
+.theme-background-alt {
+	background-color:#75C5F0;}
+.theme-color-alt {
+	color:#75C5F0;}
+.theme-border-alt {
+	border-color:#75C5F0;}
+	
+	
+.theme-background-alt-2 {
+	background-color:#16BC00;}
+.theme-color-alt-2 {
+	color:#16BC00;}
+.theme-border-alt-2 {
+	border-color:#16BC00;}
+	
+	
+	
+	
+	
+	
+	
+	

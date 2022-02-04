@@ -1,0 +1,95 @@
+Cyan 	#0093DD
+Lyan	#75C5F0	
+Dyan	#007BB8
+Teal 	#008080	
+Leal	#009A9A
+Deal	#006767
+Dragon 	#006666
+XP	#
+BUTTON	#
+Call	#16BC00
+Uncall	#090		
+Blood	#EE1111
+Val.	#BC3440		
+Border	#DDD
+Disabled	#E3E3E3	
+Backdrop	#EEE
+Backdrop-2	#E0E0E0
+Watermark 	#EDEDED	
+Footer		#373435	
+Whitish 	#F7F7F7
+Blackish	#333
+Android		#77C159
+Mantis		#A4C639
+Xmas-Green	#00B32C
+Xmas-Red	#FF0012
+Nigeria		#008753		
+Facebook	#3B5998
+Twitter		#08A0E9
+Instagram	#D10869		
+Snapchat	#FFFC00
+Meta-Blue	#1A0DAB
+Meta-Green		#006621	
+a:link-Blue		#0000EE
+a:link-Purple 	#551A8B	
+a:link-Red		#EE0000
+Yahoo Note		#FFF6D7
+WhatsApp Note	#FFF5C4	
+Magenta			#FF00FF
+Violet			#9400D3
+Indigo			#4B0082
+Blue			#0000FF
+Green 			#00FF00
+Yellow			#FFFF00
+Orange			#FF7F00
+Red				#FF0000
+WordPress	#00749C
+WordDress	#444140
+StackExchange	#F48024
+StackExchange-L	#222426
+StackExchange-D	#BCBBBB		
+WhatsApp Biz	#075E54
+WhatsApp Header	#128C7E
+WhatsApp-Icon	#25D366
+WhatsApp-Bg-2	#DCF8C6
+WhatsApp-Blue	#34B7F1
+WhatsApp-Bg		#ECE5DD
+LinkedIn
+Youtube
+Yahoo
+Google	
+Ted
+Skype
+Microsoft
+Windows
+Telegram	
+Laracast		
+Laravel		#F05340
+Daravel		#6C6C6C		
+Refsnes		
+Defsnes				
+NIIT 		#0E3997	
+Coral		#FF7F50	
+Lavender	#E6E6FA
+Caramel		#FFD59A		
+Gun Metal	#2C3539
+Space Gray	
+Rose Gold	#B76E79
+Tidal		
+Maroon		#800000
+Khaki		#F0E68C
+Dhaki		#BDB76B
+Silver		#C0C0C0
+Beige		#F5F5DC
+#D3D3D3
+#DAA520
+#FFEBCD
+#BDB76B
+#006400
+#008B8B
+#F0E68C
+#B22222
+#00C0F3
+#B3ECFC
+#5E9DC9
+#AAA

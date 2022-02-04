@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-SEARCH main {width:500px;}
+.DRAGONFLY-SEARCH section {box-shadow:0 1px 2px 0 #DDD;}
+
+.DRAGONFLY-SEARCH input[type="search"] {
+	background-image:url(../../../../../media/icons/Search-Alt.png);
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+	background-size:20px;
+	-moz-background-size:20px;
+	-webkit-background-size:20px;	
+	background-position:left;
+	padding:15px 10px 15px 30px;
+	margin-left:10px;
+	border:0;
+	width:95%;}
+.DRAGONFLY-SEARCH input[type="submit"] {display:none;}
+
+
+.DRAGONFLY-SEARCH table.category {}
+.DRAGONFLY-SEARCH table.category td {width:25%;}
+.DRAGONFLY-SEARCH table.category td a {
+	color:#999;
+	padding:0 10px 10px;
+	text-align:center;
+	text-transform:uppercase;
+	font-size:14px;
+	font-weight:bold;
+	border-bottom:solid transparent;
+	display:block;}	
+.DRAGONFLY-SEARCH table.category td:first-child a, 	
+.DRAGONFLY-SEARCH table.category td a:hover {
+	color:#333;
+	font-weight:bold;
+	border-bottom:solid #333;}	
+
+
+
+.DRAGONFLY-SEARCH li {display:block;}	
+.DRAGONFLY-SEARCH li a {
+	padding:8px 10px;
+	color:inherit;
+	text-decoration:none;
+	border-bottom:solid thin #DDD;
+	display:block;
+	cursor:pointer;}	
+.DRAGONFLY-SEARCH li a:hover {}
+.DRAGONFLY-SEARCH li a.disabled {
+	color:#999;
+	cursor:default;}
+
+
+.DRAGONFLY-SEARCH table.list tr {vertical-align:top;}
+.DRAGONFLY-SEARCH table.list tr td:nth-child(1) {width:10px;}
+.DRAGONFLY-SEARCH table.list tr td:nth-child(2) {
+	padding-left:10px;
+	white-space:normal;}
+.DRAGONFLY-SEARCH table.list tr td:nth-child(3) {text-align:right;}
+
+	
+.DRAGONFLY-SEARCH .profile {
+	background-repeat:no-repeat;
+	background-position:top center;
+	background-attachment:scroll;
+	background-size:cover;
+	border:solid thin #CCC;
+	border-radius:5px;
+	display:inline-block;}
+.DRAGONFLY-SEARCH .profile {
+	width:50px;
+	height:50px;
+	border-radius:30px;} 	
+.DRAGONFLY-SEARCH .title {font-weight:bold;}
+.DRAGONFLY-SEARCH .subtitle {
+	color:#666;
+	font-size:14px;}
+.DRAGONFLY-SEARCH .meta {font-size:14px;}
+.DRAGONFLY-SEARCH .verified {
+	width:20px;
+	float:right;}	
+
+
+.DRAGONFLY-SEARCH table.menu tr {
+	border-bottom:solid thin #DDD;}
+.DRAGONFLY-SEARCH table.menu th {
+	padding:10px 15px;
+	color:#666;
+	text-align:left;
+	font-size:14px;
+	border-bottom:solid thin #666;}
+.DRAGONFLY-SEARCH table.menu td a {
+	padding:10px;
+	display:block;}			
+
+
+

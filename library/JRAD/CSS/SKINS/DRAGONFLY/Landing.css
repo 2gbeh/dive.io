@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-LANDING {background-color:#FFF;}
+.DRAGONFLY-LANDING main {
+	margin-top:60px;
+	width:500px;
+	text-align:center;}
+.DRAGONFLY-LANDING img {width:60px;}	
+.DRAGONFLY-LANDING h1 {
+	margin:10px 0;
+	font-size:32px;}	
+.DRAGONFLY-LANDING h2 {
+	margin:10px 0;
+	color:#666; 
+	font-size:18px;}	
+.DRAGONFLY-LANDING form {
+	margin-top:20px;
+	width:100%;}
+.DRAGONFLY-LANDING input, 
+.DRAGONFLY-LANDING select, 
+.DRAGONFLY-LANDING textarea,
+.DRAGONFLY-LANDING input[type="search"], 
+.DRAGONFLY-LANDING input[type="date"] {
+	background-color:#FFF;
+	padding:15px;
+	margin:10px 0;	
+	width:100%;
+	font-family:Verdana, Geneva, sans-serif;
+	border:solid thin #DDD;
+	border-bottom:solid #CCC;
+	border-radius:10px;
+	display:block;}
+.DRAGONFLY-LANDING input[type="checkbox"] {
+	width:auto;
+	margin:0 5px 0 10px;
+	vertical-align:middle;}
+.DRAGONFLY-LANDING input[type="reset"],
+.DRAGONFLY-LANDING input[type="button"], 	
+.DRAGONFLY-LANDING input[type="submit"] {
+	padding:12px 0;
+	margin:10px 0;
+	color:#333;
+	width:100%;
+	font-size:18px;
+	border-radius:5px;}
+.DRAGONFLY-LANDING input[type="submit"] {color:#FFF;}
+.DRAGONFLY-LANDING input[type="button"] {background-color:#DDD;}
+.DRAGONFLY-LANDING input[type="button"]:hover {background-color:#CCC;}
+
+
+

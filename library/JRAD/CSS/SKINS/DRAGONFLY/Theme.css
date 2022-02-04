@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+	Cyan 	#0093DD
+	Lyan	#75C5F0	
+	Dyan	#007BB8
+	Call	#16BC00
+	Uncall	#090	
+*/
+/* CYAN */
+.theme-background,  
+.DRAGONFLY header, 
+.DRAGONFLY-LANDING input[type="submit"], 
+.DRAGONFLY-SETTINGS input[type="submit"], 
+.DRAGONFLY-SETTINGS input[type="button"], 
+.DRAGONFLY-PAGE .hud, 
+.DRAGONFLY-FEEDS-PREVIEW .quoteblock 
+{background-color:#0093DD;}
+
+.theme-color,  
+.DRAGONFLY header.alt, 
+.DRAGONFLY-LANDING form a, 
+.DRAGONFLY-GO table.menu td .subtitle, 
+.DRAGONFLY-SETTINGS table.list th .meta, 
+.DRAGONFLY-SETTINGS td a, 
+.DRAGONFLY-SETTINGS .hud a, 
+.DRAGONFLY-SEARCH .meta, 
+.DRAGONFLY-SEARCH table.category td a:hover, 
+.DRAGONFLY-PAGE th a.link, 
+.DRAGONFLY-PAGE td a, 
+.DRAGONFLY-PAGE .hud a, 
+.DRAGONFLY-FEEDS-PREVIEW table.list .meta, 
+.DRAGONFLY-DOWNLOAD table.list th .meta, 
+.DRAGONFLY-DOWNLOAD table.menu td a, 
+.DRAGONFLY-SEARCH table.menu td a
+{color:#0093DD;}
+
+.theme-border,  
+.DRAGONFLY-GO ul.list li a:hover, 
+.DRAGONFLY-SETTINGS tr:hover td, 
+.DRAGONFLY-DOWNLOAD tr:hover td, 
+.DRAGONFLY-SEARCH li a:hover, 
+.DRAGONFLY-PAGE tr:hover td,
+.DRAGONFLY-FEEDS-PREVIEW table.list tr:hover td 
+{border-bottom:solid thin #0093DD;}
+
+
+/* LYAN */
+.theme-background, 
+.DRAGONFLY-FEEDS-PREVIEW .quoteblock ul.nav li#selected
+{background-color:#75C5F0;}
+
+.theme-color, 
+.DRAGONFLY-FEEDS-PREVIEW .quoteblock .byline
+{color:#75C5F0;}
+
+.theme-border
+{border-bottom:solid thin #75C5F0;}
+
+
+/* DYAN */
+.theme-background,  
+.DRAGONFLY-LANDING input[type="submit"]:hover,  
+.DRAGONFLY-SETTINGS input[type="submit"]:hover,  
+.DRAGONFLY-SETTINGS input[type="button"]:hover 
+{background-color:#007BB8;}
+
+.theme-color
+{color:#007BB8;}
+
+.theme-border
+{border-bottom:solid thin #007BB8;}
+
+.DRAGONFLY-LANDING input[type="submit"],  
+.DRAGONFLY-PAGE .hud .action a
+{border-bottom:solid #007BB8;}
+
+
+

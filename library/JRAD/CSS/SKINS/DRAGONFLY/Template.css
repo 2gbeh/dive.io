@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY header {
+	color:#FFF;
+	text-align:center;}
+.DRAGONFLY header.alt {
+	background-color:#FFF;
+	text-align:center;
+	box-shadow:0 1px 2px 0 #DDD;}	
+.DRAGONFLY header img {
+	padding:8px 0 2px;	
+	width:30px;
+	height:auto;}
+.DRAGONFLY main {margin:0 auto;}
+.DRAGONFLY section {
+	background-color:#FFF;
+	margin:10px 0;}
+.DRAGONFLY footer {
+	margin:15px 0 10px;
+	color:#666;
+	text-align:center;
+	text-shadow:0 1px 0 #FFF;
+	font-size:14px;}

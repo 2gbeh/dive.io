@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+.DRAGONFLY-WIDGET-INKBLOT > li {
+	margin:20px 10px;
+	display:block;
+	font-size:14px;} 
+.DRAGONFLY-WIDGET-INKBLOT div:first-child {
+	font-size:12px;
+	font-weight:bold; 
+	float:right;}		
+.DRAGONFLY-WIDGET-INKBLOT div:last-child {display:inline-block;}
+.DRAGONFLY-WIDGET-INKBLOT ol {background-color:lavender;}	
+.DRAGONFLY-WIDGET-INKBLOT ol li {
+	margin:5px 0;	
+	background-color:#333;
+	height:5px;
+	border-radius:10px;	
+	display:block;
+	cursor:pointer;}
+.DRAGONFLY-WIDGET-INKBLOT .extra {color:#555;}		
+

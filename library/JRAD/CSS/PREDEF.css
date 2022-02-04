@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CONTAINER */
+.wrap, 
+.container, 
+.landing {margin:0 auto;}
+.container {width:80%;}	
+.landing {width:600px;}
+.overflow {overflow:auto;}
+.nowrap {white-space:normal;}
+/* FORMAT */
+.bold {font-weight:bold;}
+.italic {font-style:italic;}
+.noitalic {font-style:normal;}
+.under {text-decoration:underline;}
+.nounder {text-decoration:none;}
+/* CASE */
+.title {text-transform:capitalize;}
+.upper {text-transform:uppercase;}
+.lower {text-transform:lowercase;}
+.nocase {text-transform:none;}	
+/* ALIGN */
+.center {text-align:center;}
+.left {text-align:left;}
+.right {text-align:right;}
+/* DISPALY */
+.block {display:block;}	
+.inline {display:inline-block;}	
+.hidden {display:none;}	
+/* POSITION */
+.ribbon {
+	top:0;
+	width:100%;
+	position:fixed;
+	z-index:99;
+	box-shadow:0 2px 4px 0 #AAA;}
+.bottom-left {
+	left:20px;
+	bottom:10px;
+	position:fixed;}
+.bottom-right {
+	right:20px;
+	bottom:10px;
+	position:fixed;}
+/* BACKGROUND */
+.background {
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;}
+.bg-scroll {background-attachment:scroll;}
+.bg-fixed {background-attachment:fixed;}	
+.bg-contain {background-size:contain;}
+/* SHADOW */
+.shadow {box-shadow:0 1px 5px 0 #666;}
+.flat {box-shadow:0 1px 2px 0 #DDD;}
+.indent {text-shadow:0 1px 0 #FFF;}
+/* LINK */
+.cursor {cursor:pointer;}
+.button {
+	background-color:#090;
+	color:#FFF;
+	padding:10px 20px;
+	text-decoration:none;
+	border-radius:5px;
+	display:inline-block;}
+.anchor {
+	color:#0000EE;	
+	text-decoration:underline;
+	cursor:pointer;}
+.anchor:link {color:#0000EE;}
+.anchor:visited {color:#551A8B;}
+.anchor:hover {color:#551A8B;}
+.anchor:active, 
+.anchor:focus {color:#EE0000;}		
+/* LIST */
+ol.list-item li {
+	list-style-type:decimal;
+	display:list-item;}
+ul.list-item li {
+	list-style-type:circle;
+	display:list-item;}	
+/* FORMS */
+select, 
+input[type="search"], 
+input[type="date"], 
+input[type="file"] {
+	background-color:#FFF;}
+/* UNGROUPED */
+.radius {
+	border:solid thin inherit; 
+	border-radius:60px;}
+.whitespace {
+	margin-top:50px; 
+	background-color:lavender;}
