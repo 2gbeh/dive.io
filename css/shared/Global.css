@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+.modules .tags, 
+.network .tags {
+	color:#999;
+	padding:5px 10px;
+	font-size:14px;
+	font-weight:bold;}
+.slides table.clearfix tr {border:0;}
+.slides table.clearfix tr:hover td {border:0;}
+.slides table.clearfix tr td.thumb {width:10px;}
+.slides table.clearfix tr td.thumb img {
+	margin:0 10px; 
+	width:60px;
+	display:block;}	
+.docx .dd {display:none;}
+.pagicon {
+	padding:30px 0 10px;
+	text-align:center;}
+.locked .pagicon img {width:60px;}
+.payment .pagicon img {width:80px;}
+
+
