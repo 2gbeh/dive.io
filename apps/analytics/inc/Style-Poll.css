@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+.poll table.list td.label {
+	padding:10px;
+	width:100%;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	white-space:normal;}
+.poll table.list td.input input {
+	margin:10px 0 0 10px;	
+	width:auto;
+	float:left;}
+

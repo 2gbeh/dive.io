@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+ul.cbt > li {
+	padding:10px 0;
+	border-bottom:solid thin #DDD;
+	display:block;}
+ul.cbt li ol {margin:10px 0;}
+ul.cbt li ol li {margin:10px 0;}
+
+
+form input[type="text"], 
+.DRAGONFLY-SETTINGS textarea {
+	margin-top:10px;
+	border:solid thin #999;}
+form input[type="radio"] {
+	margin:0 5px 0 25px;	
+	width:auto;}
+form input[type="button"] {
+	padding:12px 10px;
+	color:#FFF;}
+	
+
+@media not screen and (min-width: 480px) 
+{
+	ul.cbt {padding:0 10px;}
+	form input[type="radio"] {margin-left:10px;}
+}
